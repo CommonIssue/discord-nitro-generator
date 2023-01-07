@@ -1,4 +1,4 @@
-
+# you prob wont find a working one
 
 choice = True
 import random, string
